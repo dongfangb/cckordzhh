@@ -1,0 +1,8 @@
+https://github.com/laurence8888/Railway-Xray/blob/main/etc/CADDYIndexPage.md
+echo "# cckordzhh" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dongfangb/cckordzhh.git
+git push -u origin main
